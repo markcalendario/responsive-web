@@ -1,6 +1,6 @@
 ## Responsive Web Design
 
-![enter image description here](https://i.imgur.com/QedN6yhs.png)
+![enter image description here](https://i.imgur.com/98xoJgxs.png)
 
 This **.css** file includes breakpoints for **Large**, **Medium** and **Small** screens that helps us to make responsive web design faster.
 
